@@ -21,5 +21,6 @@ Resource management
 Satellite
 Schematics
 Secrets Manager
+Security and Compliance Center
 Transit Gateway
 VPC infrastructure
